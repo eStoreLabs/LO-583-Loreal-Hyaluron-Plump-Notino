@@ -1,0 +1,671 @@
+{
+  "keys": [
+    "loreal-paris/elseve-hyaluron-plump-serum-do-wlosow-z-kwasem-hialuronowym/p-16281997/"
+  ],
+
+  "type": 0,
+  "language": "pl-PL",
+  "campaign": "Loreal Paris Elseve Hyaluron",
+  "rpc": "LOR09823",
+  "dateOnSaleFrom": null,
+  "owner": "estore",
+  "contents": [
+    {
+      "name": "Loreal Paris Elseve Hyaluron",
+      "key": "",
+      "isApproved": false,
+      "rich": {
+        "components": [
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/KV-mobile.jpg",
+                "element": "img",
+                "alt": "Loreal Paris Elseve Hyaluron",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "0px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/KV.jpg",
+                "element": "img",
+                "alt": "Loreal Paris Elseve Hyaluron",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "ELSEVE HYALURON PLUMP<br> <span style=\"font-size:16px; text-transform:none; font-weight:normal\">Formuła z kwasem hialuronowym</span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "26px",
+                  "fontWeight": "bold",
+                  "textTransform": "normal",
+                  "color": "#000",
+                  "marginTop": "20px",
+                  "marginBottom": "20px",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": { "text-align": "center" }
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-02-mobile.jpg",
+                "element": "img",
+                "alt": "Loreal Paris Elseve Hyaluron Plump",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "0px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-02.jpg",
+                "element": "img",
+                "alt": "Loreal Paris Elseve Hyaluron Plump",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "fiftyFifty",
+            "variant": "v2",
+            "data": [
+              {
+                "name": "header",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "24px",
+                  "fontWeight": "bold",
+                  "color": "#000",
+                  "textAlign": "left",
+                  "fontStyle": "normal",
+                  "textTransform": "uppercase",
+                  "padding": "0 16px",
+                  "lineHeight": "1",
+                  "marginTop": "30px",
+                  "maxWidth": "100%"
+                }
+              },
+              {
+                "name": "content",
+                "value": "<p>“Rozwój nauki pozwala nam zadbać o nasze włosy przy pomocy niedostępnego do tej pory w produktach do pielęgnacji włosów kwasu hialuronowego. Składnik ten ma „magiczną” moc wiązania aż 1000 razy więcej jednostek wody, niż sam waży. Elseve Hyaluron Plump daje nam możliwość zadbania o włosy ze spektakularnym efektem.”<br><p style=\"font-weight: bold\">Paweł Zięba <br>Fryzjer, Hair Expert<br>L’Oréal Paris</p></p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "16px",
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "maxWidth": "400px",
+                  "padding": "0 16px"
+                }
+              },
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-03.jpg",
+                "element": "img",
+                "alt": "Wybierz koloryzację",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "16px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Nr 1 na świecie rutyna nawilżająca",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "26px",
+                  "fontWeight": "bold",
+                  "textTransform": "uppercase",
+                  "color": "#000",
+                  "marginTop": "30px",
+                  "marginBottom": "30px",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": { "text-align": "center" }
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsFive",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Krok 1:Szampon",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "<p>Nałóż, wmasuj w skalp, spłucz.</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "http://localhost:8000/images/MOD-05-A.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "Krok 2: Odżywka",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "<p>Nałóż na długość włosów, pozostaw na 1 min, spłucz.</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "http://localhost:8000/images/MOD-05-B.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "Krok 3: Maska",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "<p>Nałóż na długość włosów, pozostaw na 2-3 min, spłucz.</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "http://localhost:8000/images/MOD-05-C.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnFourTitle",
+                "value": "Krok 4 - Na dzień: <br>Serum",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnFourText",
+                "value": "<p>Rozpyl na długości włosów, na włosy mokre lub suche.</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnFourAsset",
+                "value": "http://localhost:8000/images/MOD-05-D.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnFiveTitle",
+                "value": "Krok 4 - Na noc: <br> Krem bez spłukiwania",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnFiveText",
+                "value": "<p>Nałóż na długość włosów, na włosy mokre lub suche.</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnFiveAsset",
+                "value": "http://localhost:8000/images/MOD-05-E.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginBottom": "32px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-06-mobile.jpg",
+                "element": "img",
+                "alt": "Dla wszystkich typów włosów",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "0px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-06.jpg",
+                "element": "img",
+                "alt": "Dla wszystkich typów włosów",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "GAMA L'ORÉAL PARIS ELSEVE HYALURON PLUMP<br> <span style=\"font-size:16px; text-transform:none; font-weight:normal\">Wybierz swoją rutynę pielęgnacyjną:</span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "26px",
+                  "fontWeight": "bold",
+                  "textTransform": "uppercase",
+                  "color": "#000",
+                  "marginTop": "30px",
+                  "marginBottom": "30px",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": { "text-align": "center" }
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsFive",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Szampon wypełniający nawilżeniem",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "normal",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "http://localhost:8000/images/MOD-07-A.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "Odżywka nawilżająco-scalająca do spłukiwania",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "normal",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "http://localhost:8000/images/MOD-07-B.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "Maska nawilżająca <br>do spłukiwania",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "normal",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "http://localhost:8000/images/MOD-07-C.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnFourTitle",
+                "value": "Serum<br> nawilżająco-wypełniające <br>bez spłukiwania",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "normal",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnFourText",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnFourAsset",
+                "value": "http://localhost:8000/images/MOD-07-D.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnFiveTitle",
+                "value": "Krem do włosów na noc <br>bez spłukiwania",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "normal",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnFiveText",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnFiveAsset",
+                "value": "http://localhost:8000/images/MOD-07-E.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginBottom": "32px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "",
+                "element": "h2",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "20px",
+                  "fontWeight": "bold",
+                  "textTransform": "normal",
+                  "color": "#000",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "<div style=\"text-align: center\"><p style=\"font-size:11px;margin-bottom: 3px\"><sup style=\"font-size:10px\">*</sup> *Test instrumentalny szampon + odżywka.</p></div>",
+                "element": "DangerHtml",
+                "properties": {}
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
