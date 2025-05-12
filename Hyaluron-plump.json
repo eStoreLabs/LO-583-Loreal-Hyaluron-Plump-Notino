@@ -257,7 +257,7 @@
                 "name": "columnOneAsset",
                 "value": "./MOD-05-A.jpg",
                 "element": "img",
-                "alt": "",
+                "alt": "Krok 1",
                 "properties": {}
               },
               {
@@ -287,7 +287,7 @@
                 "name": "columnTwoAsset",
                 "value": "./MOD-05-B.jpg",
                 "element": "img",
-                "alt": "",
+                "alt": "Krok 2",
                 "properties": {}
               },
               {
@@ -317,7 +317,7 @@
                 "name": "columnThreeAsset",
                 "value": "./MOD-05-C.jpg",
                 "element": "img",
-                "alt": "",
+                "alt": "Krok 3",
                 "properties": {}
               },
               {
@@ -347,7 +347,7 @@
                 "name": "columnFourAsset",
                 "value": "./MOD-05-D.jpg",
                 "element": "img",
-                "alt": "",
+                "alt": "Krok 4",
                 "properties": {}
               },
               {
@@ -377,7 +377,7 @@
                 "name": "columnFiveAsset",
                 "value": "./MOD-05-E.jpg",
                 "element": "img",
-                "alt": "",
+                "alt": "Krok 4",
                 "properties": {}
               }
             ],
@@ -499,7 +499,7 @@
                 "name": "columnOneAsset",
                 "value": "./MOD-07-A.jpg",
                 "element": "img",
-                "alt": "",
+                "alt": "Szampon",
                 "properties": {}
               },
               {
@@ -529,7 +529,7 @@
                 "name": "columnTwoAsset",
                 "value": "./MOD-07-B.jpg",
                 "element": "img",
-                "alt": "",
+                "alt": "Odżywka",
                 "properties": {}
               },
               {
@@ -559,7 +559,7 @@
                 "name": "columnThreeAsset",
                 "value": "./MOD-07-C.jpg",
                 "element": "img",
-                "alt": "",
+                "alt": "Maska",
                 "properties": {}
               },
               {
@@ -589,7 +589,7 @@
                 "name": "columnFourAsset",
                 "value": "./MOD-07-D.jpg",
                 "element": "img",
-                "alt": "",
+                "alt": "Serum",
                 "properties": {}
               },
               {
@@ -619,7 +619,7 @@
                 "name": "columnFiveAsset",
                 "value": "./MOD-07-E.jpg",
                 "element": "img",
-                "alt": "",
+                "alt": "Krem",
                 "properties": {}
               }
             ],
