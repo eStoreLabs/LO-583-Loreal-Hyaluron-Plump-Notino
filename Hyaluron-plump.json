@@ -21,7 +21,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./KV-mobile.jpg",
+                "value": "KV-mobile.jpg",
                 "element": "img",
                 "alt": "Loreal Paris Elseve Hyaluron",
                 "properties": []
@@ -43,7 +43,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./KV.jpg",
+                "value": "KV.jpg",
                 "element": "img",
                 "alt": "Loreal Paris Elseve Hyaluron",
                 "properties": []
@@ -98,7 +98,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-02-mobile.jpg",
+                "value": "MOD-02-mobile.jpg",
                 "element": "img",
                 "alt": "Loreal Paris Elseve Hyaluron Plump",
                 "properties": []
@@ -120,7 +120,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-02.jpg",
+                "value": "MOD-02.jpg",
                 "element": "img",
                 "alt": "Loreal Paris Elseve Hyaluron Plump",
                 "properties": []
@@ -176,9 +176,9 @@
               },
               {
                 "name": "asset",
-                "value": "./MOD-03.jpg",
+                "value": "MOD-03.jpg",
                 "element": "img",
-                "alt": "Wybierz koloryzację",
+                "alt": "“Rozwój nauki",
                 "properties": []
               }
             ],
@@ -255,7 +255,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "./MOD-05-A.jpg",
+                "value": "MOD-05-A.jpg",
                 "element": "img",
                 "alt": "Krok 1",
                 "properties": {}
@@ -285,7 +285,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "./MOD-05-B.jpg",
+                "value": "MOD-05-B.jpg",
                 "element": "img",
                 "alt": "Krok 2",
                 "properties": {}
@@ -315,7 +315,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "./MOD-05-C.jpg",
+                "value": "MOD-05-C.jpg",
                 "element": "img",
                 "alt": "Krok 3",
                 "properties": {}
@@ -345,7 +345,7 @@
               },
               {
                 "name": "columnFourAsset",
-                "value": "./MOD-05-D.jpg",
+                "value": "MOD-05-D.jpg",
                 "element": "img",
                 "alt": "Krok 4",
                 "properties": {}
@@ -375,9 +375,9 @@
               },
               {
                 "name": "columnFiveAsset",
-                "value": "./MOD-05-E.jpg",
+                "value": "MOD-05-E.jpg",
                 "element": "img",
-                "alt": "Krok 4",
+                "alt": "Krok 5",
                 "properties": {}
               }
             ],
@@ -396,7 +396,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-06-mobile.jpg",
+                "value": "MOD-06-mobile.jpg",
                 "element": "img",
                 "alt": "Dla wszystkich typów włosów",
                 "properties": []
@@ -418,7 +418,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-06.jpg",
+                "value": "MOD-06.jpg",
                 "element": "img",
                 "alt": "Dla wszystkich typów włosów",
                 "properties": []
@@ -497,7 +497,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "./MOD-07-A.jpg",
+                "value": "MOD-07-A.jpg",
                 "element": "img",
                 "alt": "Szampon",
                 "properties": {}
@@ -527,7 +527,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "./MOD-07-B.jpg",
+                "value": "MOD-07-B.jpg",
                 "element": "img",
                 "alt": "Odżywka",
                 "properties": {}
@@ -557,7 +557,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "./MOD-07-C.jpg",
+                "value": "MOD-07-C.jpg",
                 "element": "img",
                 "alt": "Maska",
                 "properties": {}
@@ -587,7 +587,7 @@
               },
               {
                 "name": "columnFourAsset",
-                "value": "./MOD-07-D.jpg",
+                "value": "MOD-07-D.jpg",
                 "element": "img",
                 "alt": "Serum",
                 "properties": {}
@@ -617,7 +617,7 @@
               },
               {
                 "name": "columnFiveAsset",
-                "value": "./MOD-07-E.jpg",
+                "value": "MOD-07-E.jpg",
                 "element": "img",
                 "alt": "Krem",
                 "properties": {}
