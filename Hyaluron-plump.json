@@ -232,7 +232,7 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "Krok 1:Szampon<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Nałóż, wmasuj w skalp, spłucz.</p>",
+                "value": "Krok 1:Szampon<br><p style=\"font-weight: normal;font-size:16px;text-transform: none\">Nałóż, wmasuj w skalp, spłucz.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -262,7 +262,7 @@
               },
               {
                 "name": "columnTwoTitle",
-                "value": "Krok 2: Odżywka<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Nałóż na długość włosów, pozostaw na 1 min, spłucz.</p>",
+                "value": "Krok 2: Odżywka<br><p style=\"font-weight: normal;font-size:16px;text-transform: none\">Nałóż na długość włosów, pozostaw na 1 min, spłucz.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -292,7 +292,7 @@
               },
               {
                 "name": "columnThreeTitle",
-                "value": "Krok 3: Maska <br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Nałóż na długość włosów, pozostaw na 2-3 min, spłucz.</p>",
+                "value": "Krok 3: Maska <br><p style=\"font-weight: normal;font-size:16px;text-transform: none\">Nałóż na długość włosów, pozostaw na 2-3 min, spłucz.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -322,7 +322,7 @@
               },
               {
                 "name": "columnFourTitle",
-                "value": "Krok 4 - Na dzień: <br>Serum<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Rozpyl na długości włosów, na włosy mokre lub suche.</p>",
+                "value": "Krok 4 - Na dzień: <br>Serum<br><p style=\"font-weight: normal;font-size:16px;text-transform: none\">Rozpyl na długości włosów, na włosy mokre lub suche.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -352,7 +352,7 @@
               },
               {
                 "name": "columnFiveTitle",
-                "value": "Krok 4 - Na noc: <br> Krem bez spłukiwania<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Nałóż na długość włosów, na włosy mokre lub suche.</p>",
+                "value": "Krok 4 - Na noc: <br> Krem bez spłukiwania<br><p style=\"font-weight: normal;font-size:16px;text-transform: none\">Nałóż na długość włosów, na włosy mokre lub suche.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
