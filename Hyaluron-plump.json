@@ -232,7 +232,7 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "Krok 1:Szampon",
+                "value": "Krok 1:Szampon<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Nałóż, wmasuj w skalp, spłucz.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -246,7 +246,7 @@
               },
               {
                 "name": "columnOneText",
-                "value": "<p>Nałóż, wmasuj w skalp, spłucz.</p>",
+                "value": "",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "15px",
@@ -262,7 +262,7 @@
               },
               {
                 "name": "columnTwoTitle",
-                "value": "Krok 2: Odżywka",
+                "value": "Krok 2: Odżywka<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Nałóż na długość włosów, pozostaw na 1 min, spłucz.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -276,7 +276,7 @@
               },
               {
                 "name": "columnTwoText",
-                "value": "<p>Nałóż na długość włosów, pozostaw na 1 min, spłucz.</p>",
+                "value": "",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "15px",
@@ -292,7 +292,7 @@
               },
               {
                 "name": "columnThreeTitle",
-                "value": "Krok 3: Maska",
+                "value": "Krok 3: Maska <br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Nałóż na długość włosów, pozostaw na 2-3 min, spłucz.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -306,7 +306,7 @@
               },
               {
                 "name": "columnThreeText",
-                "value": "<p>Nałóż na długość włosów, pozostaw na 2-3 min, spłucz.</p>",
+                "value": "",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "15px",
@@ -322,7 +322,7 @@
               },
               {
                 "name": "columnFourTitle",
-                "value": "Krok 4 - Na dzień: <br>Serum",
+                "value": "Krok 4 - Na dzień: <br>Serum<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Rozpyl na długości włosów, na włosy mokre lub suche.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -336,7 +336,7 @@
               },
               {
                 "name": "columnFourText",
-                "value": "<p>Rozpyl na długości włosów, na włosy mokre lub suche.</p>",
+                "value": "",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "15px",
@@ -352,7 +352,7 @@
               },
               {
                 "name": "columnFiveTitle",
-                "value": "Krok 4 - Na noc: <br> Krem bez spłukiwania",
+                "value": "Krok 4 - Na noc: <br> Krem bez spłukiwania<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Nałóż na długość włosów, na włosy mokre lub suche.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -366,7 +366,7 @@
               },
               {
                 "name": "columnFiveText",
-                "value": "<p>Nałóż na długość włosów, na włosy mokre lub suche.</p>",
+                "value": "",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "15px",
@@ -440,11 +440,11 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "GAMA L'ORÉAL PARIS ELSEVE HYALURON PLUMP<br> <span style=\"font-size:16px; text-transform:none; font-weight:normal\">Wybierz swoją rutynę pielęgnacyjną:</span>",
+                "value": "GAMA L'ORÉAL PARIS ELSEVE HYALURON PLUMP<br> <span style=\"font-size:20px; text-transform:none; font-weight:normal\">Wybierz swoją rutynę pielęgnacyjną:</span>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "26px",
+                  "fontSize": "30px",
                   "fontWeight": "bold",
                   "textTransform": "uppercase",
                   "color": "#000",
