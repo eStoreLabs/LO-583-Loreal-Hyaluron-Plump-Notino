@@ -651,7 +651,7 @@
               },
               {
                 "name": "columnOneText",
-                "value": "<div style=\"text-align: center\"><p style=\"font-size:11px;margin-bottom: 3px\"><sup style=\"font-size:10px\">*</sup> *Test instrumentalny szampon + odżywka.</p></div>",
+                "value": "<div style=\"text-align: center\"><p style=\"font-size:11px;margin-bottom: 3px\"><sup style=\"font-size:10px\">*</sup>Test instrumentalny szampon + odżywka.</p></div>",
                 "element": "DangerHtml",
                 "properties": {}
               }
